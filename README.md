@@ -114,7 +114,6 @@ flutter run
 ## Improvements (Future Scope)
 
 * Error handling UI
-* Retry button on API failure
 * Debounced search
 * Better grid layout for large screens
 * Shimmer for list items
